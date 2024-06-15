@@ -3,6 +3,7 @@ Hi there!👋
 I'm Astha dubey, a passionate and curious individual always seeking new things and technologies. I'm a 20-year-old Software and a Web-developer currently pursuing my bachelor's degree in computer science and engineering. I'm  proficient in Python, HTML, CSS , JavaScript and familiar with bootstrap and react js.
 
 🔭 What I’m currently working on.
+
  I'm actively involved in learning and applying frontend and backened technologies (Web-Development). I'm working on personal projects and collaborating with others to enhance my skills .
 
 🌱 Skills 
