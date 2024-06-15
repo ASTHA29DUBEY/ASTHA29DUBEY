@@ -26,7 +26,7 @@ You can find some of my projects in my highlighted repositories.
 💬 Trainings And Experience
 
 > Web Development (CODEAPLHA)
-June 2023- June2023: Successfully designed and developed visually appealing and user-friendlyprojects like File Converter, Background Generator using HTML, CSS, and JavaScript.
+June 2023- June2023: Successfully designed and developed visually appealing and user-friendly projects like File Converter, Background Generator using HTML, CSS, and JavaScript.
 
 > Python programming (CODSOFT)
 Sep 2023- Sep 2023: Successfully designed the project like quiz game, password generator usingpythonlanguage
