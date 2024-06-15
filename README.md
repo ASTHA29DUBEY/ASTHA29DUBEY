@@ -27,11 +27,12 @@ You can find some of my projects in my highlighted repositories.
 
 > Web Development (CODEAPLHA)
 June 2023- June2023: Successfully designed and developed visually appealing and user-friendlyprojects like File Converter, Background Generator using HTML, CSS, and JavaScript.
+
 > Python programming (CODSOFT)
 Sep 2023- Sep 2023: Successfully designed the project like quiz game, password generator usingpythonlanguage
 
 
-📫 Get in touch
+ 📫 Get in touch
 
 If you have any questions, or suggestions, or would like to collaborate on a project feel free to reach out to me. you can connect with me through the following channels:-
 
