@@ -1,6 +1,6 @@
 Hi there!👋
 
-I'm Astha dubey, a passionate and curious individual always seeking new things and technologies. I'm a 20-year-old Software and a Web-developer currently pursuing my bachelor's degree in computer science and engineering. I'm  proficient in Python, HTML, CSS , JavaScript and familiar with bootstrap and react js.
+I'm Astha dubey, a passionate and curious individual always seeking new things and technologies. I'm a 20-year-old Software and a Web-developer currently pursuing my bachelor's degree in computer science and engineering. I'm proficient in HTML, CSS, JavaScript, python and familiar with bootstrap and react js.
 
 
 🔭 What I’m currently working on.
@@ -10,26 +10,31 @@ I'm Astha dubey, a passionate and curious individual always seeking new things a
 
 🌱 Skills 
 
-Programming Languages : HTML, CSS, JAVASCRIPT, BOOTSTRAP, PYTHON.
-Frameworks : REACT JS.
+Programming Languages : HTML, CSS, JAVASCRIPT, PYTHON.
+Frameworks : BOOTSTRAP, REACT JS.
 Version Control : GIT, GITHUB, MS-office.
 Data Base : MYSQL.
+Tools : Canva, Figma.
 Soft Skills : Communication, Teamwork, Problem-Solving, Time-Management, Leadership.
 
 
 ⚡ Projects
 
-I have worked on various personal and collaborative projects, including web development that are travel-tour website , and python language that incle GUI Calculator , Quiz game and etc.
+I have worked on various personal and collaborative projects, including web development that are travel-tour website, Food ordering website and python language that include GUI Calculator , Quiz game and etc.
 You can find some of my projects in my highlighted repositories.
 
 
 💬 Trainings And Experience
 
-> Web Development (CODEAPLHA)
-June 2023- June2023: Successfully designed and developed visually appealing and user-friendly projects like File Converter, Background Generator using HTML, CSS, and JavaScript.
+> Frontend Developer Intern, Trident TechLabs Ltd, New Delhi. (Jul 2024 -Aug 2024)
+-> Experienced in creating an enhanced responsive design using HTML CSS AND JAVASCRIPT.
+-> Developed a portfolio, and worked on a Net Sales ERP project based on ReactJs.
+-> Collaborated with team members and stakeholders to define and implement features.
+-> Developing a user interface components using ReactJs components libraries and framework.
 
-> Python programming (CODSOFT)
-Sep 2023- Sep 2023: Successfully designed the project like quiz game, password generator usingpythonlanguage
+>Frontend Developer Trainee, Devstringx Technologies, Noida. (Jul 2024 -Sep 2024)
+->Proficient in creating responsive designs using HTML CSS JAVASCRIPT and BOOTSTRAP.
+-> Develop a high performance customer facing e-commerce application using ReactJs.
 
 
  📫 Get in touch
