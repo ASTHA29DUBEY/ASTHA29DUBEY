@@ -25,40 +25,27 @@ Soft Skills : Communication, Teamwork, Problem-Solving, Time-Management, Leaders
 
 ⚡ Projects
 1. **Online Sales Platform**
-   
 •This is basically a responsive and dynamic E-Commerce website utilizing Html, Css,
 JavaScript and ReactJs.
-
 •Designed to provide a user-friendly shopping experience for an online retail store.
-
 •Utilized server-side technologies like Node.js to build robust backend services, improving
 application performance and scalability.
 
-
 2. **Coffee Haven**
-
 •Developed a responsive Coffee Shop website using HTML, CSS and Javascript.
-
 •Designed and implemented interactive features such as menu displays, Products, Review and
-Blogs.
-
+ Blogs.
 •Ensured that the site was fully responsive and optimized for both desktop and mobile devices.
 
-
 3. **TourTravel website**
-
 •A tourism or travel website serves an information hub for prospective travelers planning a
 vacation .This allows the user to book their vacations.
-
 •This is website is made to showcase and enhance my bootstrap skills and make the website
 responsive.
 
-
-5. **Food Ordering Website**
-
+4. **Food Ordering Website**
 •A website designed that showcases my designing skills which is made using the
 Html,Css,JavaScript with different animations on it.
-
 •This website is made for ordering the food mentioned there
 
 
